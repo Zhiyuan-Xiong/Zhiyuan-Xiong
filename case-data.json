@@ -1,0 +1,104 @@
+{
+  "slug": "alilaguna",
+  "title": {
+    "zh": "ALILAGUNA",
+    "en": "ALILAGUNA"
+  },
+  "subtitle": {
+    "zh": "地铁、冥河与重叠世界｜概念音乐影像",
+    "en": "Subway, Styx, and overlapping worlds | Conceptual music video"
+  },
+  "description": {
+    "zh": "将伦敦地铁转化为当代冥界渡船，以实拍、数字特效与三维空间展开现实与冥河之间的旅程。",
+    "en": "London’s subway becomes a contemporary ferry to the underworld, merging live-action, digital effects, and 3D spaces in a journey between reality and Styx."
+  },
+  "categories": [
+    "video"
+  ],
+  "status": "published",
+  "kind": {
+    "zh": "概念音乐影像 · 协作项目",
+    "en": "Conceptual music video · Collaborative project"
+  },
+  "cover": "alilaguna-cover",
+  "background": "alilaguna-cover",
+  "coverAlt": {
+    "zh": "地铁、扶梯、时钟与重叠圆形构成的 ALILAGUNA 完整概念拼贴。",
+    "en": "An ALILAGUNA concept collage of subway structures, escalators, clocks, and overlapping circles."
+  },
+  "role": {
+    "zh": "影像导演：拍摄、剪辑、调色、VFX 与排版",
+    "en": "Image director: filming, editing, colour grading, VFX, and layout"
+  },
+  "stage": {
+    "zh": "已完成概念音乐影像",
+    "en": "Completed conceptual music video"
+  },
+  "deliverables": {
+    "zh": "完整 MV、概念拼贴、音乐分析、十二格分镜与制作过程",
+    "en": "Full music video, concept collages, music analysis, twelve-shot storyboard, and production studies"
+  },
+  "overview": {
+    "zh": "一段从现实走向死亡边界、再返回现实的旅程。地铁成为当代渡船：失灵的指示牌与扭曲的时间，让稳定的日常逐渐松动。影像将实拍、数字特效与三维空间相结合，通过倒放、镜像与分屏，使现实与虚拟世界彼此渗透。",
+    "en": "A journey from reality to the edge of the afterlife, and back. The subway becomes a contemporary ferry: failing signage and distorted time unsettle everyday order. Live-action footage, digital effects, and 3D spaces merge through reversal, mirroring, and split screens, allowing real and virtual worlds to overlap."
+  },
+  "video": "https://youtu.be/iQDMCwT_wTY",
+  "sections": [
+    {
+      "id": "concept",
+      "title": {
+        "zh": "概念与隐喻",
+        "en": "Concept & metaphors"
+      }
+    },
+    {
+      "id": "references",
+      "title": {
+        "zh": "视觉参考",
+        "en": "Visual references"
+      }
+    },
+    {
+      "id": "narrative",
+      "title": {
+        "zh": "叙事与声音",
+        "en": "Narrative & sound"
+      }
+    },
+    {
+      "id": "storyboard",
+      "title": {
+        "zh": "场地与分镜",
+        "en": "Locations & storyboards"
+      }
+    },
+    {
+      "id": "production",
+      "title": {
+        "zh": "制作与协作",
+        "en": "Production & collaboration"
+      }
+    },
+    {
+      "id": "spaces",
+      "title": {
+        "zh": "虚拟空间",
+        "en": "Virtual spaces"
+      }
+    },
+    {
+      "id": "showcase",
+      "title": {
+        "zh": "影像展开",
+        "en": "Film showcase"
+      }
+    },
+    {
+      "id": "film",
+      "title": {
+        "zh": "完整影片",
+        "en": "Full music video"
+      }
+    }
+  ]
+}
